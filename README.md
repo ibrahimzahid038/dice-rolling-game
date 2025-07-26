@@ -1,2 +1,2 @@
 # dice-rolling-game
-dice rolling game desceription
+ This is the the code of the dice rolling game in c++ 
