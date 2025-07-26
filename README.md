@@ -1,3 +1,4 @@
+# Dice rolling game
  This was a simple task assigned to me to create a C++ console program that simulates rolling dice. The purpose of the project was to practice using random number generation, loops, and user interaction.
 
 🔧 Features Implemented:
